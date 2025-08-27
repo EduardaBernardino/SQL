@@ -11,4 +11,7 @@ AUTO_INCREMENT
 
 --Estudar árvore B
 
-
+-------------------------------------------------------------------------------------
+--DDL: é a linguagem de criação e exclusão do banco:
+--UNIQUE: não posso repetir aquele dado que ja coloquei
+--DEFAULT: toda vez que for inserido ele retoornará a data ou hora atual do sistema 
